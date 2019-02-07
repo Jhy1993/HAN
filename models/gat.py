@@ -47,10 +47,6 @@ class HeteGAT_no_coef(BaseGAttN):
                                                   out_sz=hid_units[0], activation=activation,
                                                   in_drop=ffd_drop, coef_drop=attn_drop, residual=False,
                                                   return_coef=return_coef))
-            # print('asa')
-            # head_coef = tf.concat(head_coef_list, axis=0)
-            # head_coef = tf.reduce_mean(head_coef, axis=0)
-            # coef_list.append(head_coef)
             h_1 = tf.concat(attns, axis=-1)
             for i in range(1, len(hid_units)):
                 h_old = h_1
@@ -65,7 +61,6 @@ class HeteGAT_no_coef(BaseGAttN):
                                                   residual=residual))
                 h_1 = tf.concat(attns, axis=-1)
             embed_list.append(tf.expand_dims(tf.squeeze(h_1), axis=1))
-        # 注意这里h_1为[batch_size, Num_node, nhid*nhead]
         # att for metapath
         # prepare shape for SimpleAttLayer
         # print('att for mp')
@@ -142,7 +137,6 @@ class HeteGAT(BaseGAttN):
                                                   residual=residual))
                 h_1 = tf.concat(attns, axis=-1)
             embed_list.append(tf.expand_dims(tf.squeeze(h_1), axis=1))
-        # 注意这里h_1为[batch_size, Num_node, nhid*nhead]
         # att for metapath
         # prepare shape for SimpleAttLayer
         # print('att for mp')
@@ -195,10 +189,7 @@ class HeteGAT_multi(BaseGAttN):
                                                   coef_drop=attn_drop, residual=residual))
                 h_1 = tf.concat(attns, axis=-1)
             embed_list.append(tf.expand_dims(tf.squeeze(h_1), axis=1))
-        # 注意这里h_1为[batch_size, Num_node, nhid*nhead]
-        # att for metapath
-        # prepare shape for SimpleAttLayer
-        # print('att for mp')
+
         multi_embed = tf.concat(embed_list, axis=1)
         final_embed, att_val = layers.SimpleAttLayer(multi_embed, mp_att_size,
                                                      time_major=False,
@@ -215,7 +206,6 @@ class HeteGAT_multi(BaseGAttN):
         logits = tf.add_n(out) / n_heads[-1]
         # logits_list.append(logits)
         print('de')
-        # 这里logit 为什么要expand_dim， 原始GAT并没有
         logits = tf.expand_dims(logits, axis=0)
         return logits, final_embed, att_val
 
