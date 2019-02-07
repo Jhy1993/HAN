@@ -1,2 +1,3 @@
 # HAN
-Network Embedding
+
+Source code of Heterogeneous Graph Attention Network (19WWW).
