@@ -1,0 +1,121 @@
+Chris Manning
+Dan Jurafsky
+Percy Liang
+He He
+Vinodkumar Prabhakaran
+Siva Reddy
+Drew Hudson Arad
+Juan Ignacio Cases Martin
+Arun Tejasvi Chaganty
+Danqi Chen
+Kevin Clark
+Timothy Dozat
+Kelvin Guu
+Will Hamilton
+Urvashi Khandelwal
+Robin Jia
+Fereshte Khani
+Jiwei Li
+Will Monroe
+Panupong Pasupat
+Reid Pryzant
+Peng Qi
+Sebastian Schuster
+Abi See
+Jacob Steinhardt
+Rob Voigt
+Yuhao Zhang
+Mihail Eric
+Sam Ginn
+Jason Bolton
+Jussi Karlgren
+Young-joo Chung
+Mihai Surdeanu
+Michel Galley
+Ramesh Nallapati
+Sida Wang
+Thang Luong
+Gabor Angeli
+Jason Brenier
+Sam Bowman
+Nate Chambers
+Angel Chang
+Uriel Cohen Priva
+Pi-Chuan Chang
+Roy Frostig
+Jenny Finkel
+Spence Green
+Sonal Gupta
+Bill MacCartney
+Marie-Catherine de Marneffe
+Rob Munro
+Daniel Ramage
+Natalia Silveira
+Rion Snow
+Richard Socher
+Yun-Hsuan Sung, Electrical Engineering
+Valentin Spitkovsky, Computer Science
+Kristina Toutanova, Computer Science
+Huihsin Tseng, Linguistics (Univ Colorado at Boulder)
+Adam Vogel, Computer Science
+Mengqiu Wang, Computer Science
+Raine Hoover, Computer Science
+Galen Andrew, Computer Science
+Paul Chen, Computer Science
+Teg Grenager, Computer Science
+Surabhi Gupta, Computer Science
+Andrey Gusev, Computer Science
+David Hall, Symbolic Systems
+Eric Huang, Computer Science
+Thad Hughes, Computer Science
+Mike Kayser, ICME
+Stefan Krawczyk, Computer Science
+Michael Levin, Computer Science
+Konstantin Lopyrev, Computer Science
+Mike Mintz, Symbolic Systems, Computer Science
+William Morgan, Computer Science
+Neha Nayak, Computer Science
+Jamie Nicolson, Computer Science
+Hieu Pham, Computer Science
+Melvin Johnson Premkumar, Computer Science
+Karthik Raghunathan, Computer Science
+Kai Sheng Tai, Computer Science
+Eric Yeh, Computer Science
+Steven Woonyeon Yoo, Computer Science
+Victor Zhong, Computer Science
+Yulia Tsvetkov, Computer Science
+David Jurgens, Computer Science
+Jonathan Berant, Computer Science
+Steven Bethard, Computer Science
+Daniel Cer, Computer Science
+Mona Diab, Linguistics
+Sharon Goldwater, Linguistics
+Kenneth Heafield, Computer Science
+Ruihong Huang, Computer Science
+Jonas Kuhn, Linguistics
+David McClosky, Computer Science
+Cristian Danescu-Niculescu-Mizil, Computer Science
+Ani Nenkova, Linguistics
+Sebastian Padó, Linguistics
+Yves Peirsman, Linguistics
+Jeffrey Pennington, Computer Science
+Marta Recasens, Linguistics
+Xiaolin Shi, Computer Science
+Vivek Srikumar, Computer Science
+Jiahong Yuan, Linguistics
+Jon Gauthier, Symbolic Systems
+Aria Haghighi, Computer Science
+Chloe Kiddon, Computer Science
+Kristen Parton, BS in Computer Science
+Reginald Long, Computer Science
+Keenon Werling, Computer Science  
+Chris(topher) Cox, Symbolic Systems. 2004-2005
+Anna Rafferty, Computer Science. 2006-2008
+John Bauer, Computer Science. 2010-2014
+Eneko Agirre, Computer Science
+Pushpak Bhattacharyya, Computer Science
+Wanxiang Che, Visiting Associate Professor, Computer Science
+Pedro Domingos, Computer Science
+John Hale, Linguistics and Computer Science
+Satoshi Oyama, Computer Science
+Cindi Thompson, Computer Science

@@ -1,0 +1,34 @@
+Fei-Fei Li
+Juan Carlos Niebles
+Damian Mrowca
+Guido Pusiol
+Serena Yeung
+Yuke Zhu
+Shyamal Buch
+Jim Fan
+Animesh Garg
+Albert Haque
+De-An Huang
+Justin Johnson
+Ranjay Krishna
+Zelun Luo
+Barry Chai
+Timnit Gebru PhD, 2012-2017 Postdoc at Microsoft Research
+Alex Alahi Postdoc, 2013-2017 Assistant Professor at EPFL
+Cewu Lu Postdoc, 2015-2016 Research Professor at Shanghai Jiao Tong Univ.
+Joseph Lim Postdoc, 2015-2016 Assistant Professor at U. of Southern California
+Lamberto Ballan Postdoc, 2014-2016 Research Scientist at University of Florence
+Jon Krause PhD, 2011-2016 Google Brain
+Andrej Karpathy PhD, 2011-2016 Research Scientist at OpenAI
+Vignesh Ramanathan PhD, 2011-2016 Research Scientist at Facebook
+Marius Cătălin Iordan PhD, 2009-2016 Postdoc at Princeton
+Michelle Greene Postdoc, 2013-2015 Assistant Professor at Minerva University
+Olga Russakovsky PhD, 2010-2015 Postdoc at CMU
+Kevin Tang PhD, 2010-2015 Research Scientist at Snapchat
+Chris Baldassano PhD, 2010-2015 Postdoc at Princeton
+Alireza Fathi Postdoc, 2013-2014 Google Research
+Armand Joulin Postdoc, 2013-2014 Research Scientist at Facebook
+Jia Deng PhD, 2008-2013 Assistant Professor at U. Michigan Ann-Arbor
+Bangpeng Yao PhD, 2008-2013 Hudson River Trading
+Jia Li PhD, 2006-2011 Head of Research at Snapchat
+Juan Carlos Niebles

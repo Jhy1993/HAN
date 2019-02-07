@@ -1,0 +1,100 @@
+359187	2	Towards a Generic Model of Configuraton Tasks.
+536197	1	Joint Cluster Analysis of Attribute Data and Relationship Data: the Connected k-Center Problem.
+309770	2	Estimating labels from label proportions.
+486705	1	Temporal Sequence Associations for Rare Events.
+487134	1	Efficient Sampling: Application to Image Data.
+156741	3	Federated Search of Text-Based Digital Libraries in Hierarchical Peer-to-Peer Networks.
+556244	0	System design issues in sensor databases.
+552408	3	Ranking by community relevance.
+8258	2	Rough Resolution: A Refinement of Resolution to Remove Large Literals.
+596641	0	Supporting Frequent Updates in R-Trees: A Bottom-Up Approach.
+275545	0	XPlainer: An XPath Debugging Framework.
+597204	0	WATCHMAN : A Data Warehouse Intelligent Cache Manager.
+156905	3	Combining CORI and the Decision-Theoretic Approach for Advanced Resource Selection.
+504351	0	Weighted Hypertree Decompositions and Optimal Query Plans.
+487108	1	Predicting Rare Extreme Values.
+10005	0	Data Dependencies on Inequalities.
+277011	0	SUBSKY: Efficient Computation of Skylines in Subspaces.
+596227	0	A Dual Space Representation for Geometric Data.
+536501	1	Spatial Scan Statistics for Graph Clustering.
+556204	0	Boolean + ranking: querying a database by k-constrained optimization.
+356888	2	Parameter Networks: Towards a Theory of Low-Level Vision.
+555312	0	"50,000 Users on an Oracle8 Universal Server Database."
+275478	0	cgmOLAP: Efficient Parallel Generation and Querying of Terabyte Size ROLAP Data Cubes.
+358765	2	The Completeness of a Natural System for Reasoning with Time Intervals.
+309258	2	Feature subset selection bias for classification learning.
+536372	1	Mining Frequent Patterns by Differential Refinement of Clustered Bitmaps.
+556333	0	Integrating and querying taxonomies with quest in the presence of conflicts.
+158720	2	Learning Non-Monotonic Logic Programs: Learning Exceptions.
+275572	0	Modeling the Effects of Data and Resource Contention on the Performance of Optimistic Concurrency Control Protocols.
+357860	3	An Ontology-based Architecture for Cooperative Information Agents.
+8868	2	Visibility-Based Pursuit-Evasion with Limited Field of View.
+596187	0	Some Large Questions about Very Large Data Bases.
+357597	2	Reasoning about Action in Polynomial Time.
+276890	0	Maintaining Materialized Views in Distributed Databases.
+308137	2	Learning Distance Functions using Equivalence Relations.
+157089	3	The Utility of Information Extraction in the Classification of Books.
+358758	2	Resource Temporal Networks: Definition and Complexity.
+117227	2	A class of probabilistic shape models.
+358146	2	Optimizing a Video Preprocessor for OCR.
+308917	2	A Case Study in the Use of Theory Revision in Requirements Validation.
+11979	2	Inference Rules for High-Order Consistency in Weighted CSP.
+86199	3	Improving Relevance Feedback in the Vector Space Model.
+437276	2	Support feature machine for classification of abnormal brain activity.
+11717	2	A Qualitative Approach to Multiple Fault Isolation in Continuous Systems.
+278934	2	Finding Predictive Runs with LAPS.
+356664	2	A Representation for Complex Physical Domains.
+595825	0	Join Graphs and Acyclic Database Schemes
+9151	2	Tractable Anytime Temporal Constraint Propagation.
+357194	2	Amalgams of Constraint Satisfaction Problems.
+11659	2	An Egalitarist Fusion of Incommensurable Ranked Belief Bases under Constraints.
+487316	1	Temporal Relations Extraction in Mining Hepatitis Data.
+359663	2	A Panel on AI and Databases.
+554673	0	dbSwitch? - Towards a Database Utility.
+595591	0	R-Tree Based Indexing of Now-Relative Bitemporal Data.
+275261	3	Developing Web Service.
+551635	3	A search engine for imaged documents in PDF files.
+359792	2	How Situated is Cognition?
+278549	1	A Comparative Study of RNN for Outlier Detection in Data Mining.
+275778	0	SEED - A DBMS for Software Engineering Applications Based on the Entity-Relationship Approach.
+8638	2	Massively Parallel Support for Computationally Effective Recognition Queries.
+361006	2	Dealing with Perception Errors in Multi-Robot System Coordination.
+360668	3	Language Acquisition: Learning a Hierarchy of Phrases.
+358345	2	Decidability of SHIQ with Complex Role Inclusion Axioms.
+8071	2	Find-Path for a PUMA-Class Robot.
+86016	0	Group Formation Mechanisms for Transactions in ISIS.
+359399	2	The Generation of Continuous Semantic Constraints from Semantic Propositions.
+156802	3	Specificity Helps Text Classification.
+436537	1	Web mining for e-commerce (workshop session - title only).
+308275	2	Learning Symbolic Rules Using Artificial Neural Networks.
+536495	1	A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees.
+309899	2	Modeling interleaved hidden processes.
+118479	3	A contextual dissimilarity measure for accurate and efficient image search.
+486711	1	Maintaining Frequent Itemsets over High-Speed Data Streams.
+308054	2	Learning predictive state representations using non-blind policies.
+555434	0	LH*RS: A High-Availability Scalable Distributed Data Structure using Reed Solomon Codes.
+116431	2	Mosaics of Scenes with Moving Objects.
+9039	2	Learning by Failing to Explain.
+487154	1	ISM: Item Selection for Marketing with Cross-Selling Considerations.
+358823	3	Researcher: An Experimental Intelligent Information System.
+308024	2	Query Learning Strategies Using Boosting and Bagging.
+86725	3	Finding dense and isolated submarkets in a sponsored search spending graph.
+551267	3	Reexamining the Cluster Hypothesis: Scatter/Gather on Retrieval Results.
+356635	2	Efficient Symmetry Breaking for Boolean Satisfiability.
+357419	2	"Change, Change, Change: Three Approaches."
+86144	0	Spatial Query Processing Using Object Decomposition Method.
+116720	2	Reconstruction from Six-Point Sequences.
+359052	3	"The Concurrent, Continuous FLUX."
+552309	3	Strategy follows technology.
+486927	1	Online Algorithms for Mining Inter-stream Associations from Large Sensor Networks.
+596689	0	CXHist : An On-line Classification-Based Histogram for XML String Selectivity Estimation.
+358360	0	Meeting the Interlocking Needs of LF-Computation Deindexing and Inference: An Organic Approach to General NLU.
+86824	0	Efficient join processing over uncertain data.
+436767	2	Sequential cost-sensitive decision making with reinforcement learning.
+504121	0	On the Equivalence of Database Restructurings Involving Object Identifiers.
+275749	0	Applications for Expression Data in Relational Database System.
+596850	2	Control of an Extensible Query Optimizer: A Planning-Based Approach.
+157165	3	Viewing Term Proximity from a Different Perspective.
+552430	3	Resource monitoring in information extraction.
+358897	2	"On Seeing Things, Again."
+627055	0	Consistency-preserving caching of dynamic database content.

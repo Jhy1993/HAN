@@ -1,0 +1,105 @@
+Michael I. Jordan
+Ahmed El Alaoui
+Elaine Angelino
+Joe Borja
+Nicholas Boyd
+Sarah Brown
+Jianbo Chen
+Xiang Cheng
+Ryan Giordano
+Chi Jin
+Lihua Lei
+Romain Lopez
+Horia Mania
+Philipp Moritz
+Robert Nishihara
+Aldo Pacchiano
+Max Rabinovich
+Aaditya Ramdas
+Esther Rolf
+Jeff Regier
+Max Simchowitz
+Mitchell Stern
+Nilesh Tripuraneni
+Ashia Wilson
+Chiao-Yu Yang
+Chelsea Zhang
+Francis Bach, Research Professor, Ecole Normale Supérieure
+Yoshua Bengio, Professor, Université de Montréal
+Chiranjib Bhattacharyya, Professor, Indian Institute of Science
+David Blei, Professor, Columbia University
+Ben Blum, Novelist, Brooklyn, NY
+Peter Bodik, Research Scientist, Microsoft Research
+Alexandre Bouchard-Côté, Associate Professor, University of British Columbia
+Tamara Broderick , Assistant Professor, MIT
+Venkat Chandrasekaran, Professor, Caltech
+Xi Chen, Assistant Professor, NYU
+David Cohn, Senior Research Scientist, Google
+Carlotta Domeniconi, Associate Professor, George Mason University
+John Duchi, Assistant Professor, Stanford University
+Barbara Engelhardt, Assistant Professor, Princeton University
+Emily Fox, Associate Professor, University of Washington
+Patrick Flaherty, Assistant Professor, University of Massachusetts, Amherst
+Zoubin Ghahramani, Professor, University of Cambridge
+Joseph Gonzalez, Assistant Professor, University of California, Berkeley
+Thomas Hofmann, Professor, ETH Zürich
+John Houde, Associate Professor, University of California, San Francisco
+Chris Hundt, Software Engineer, Judicata
+Tommi Jaakkola, Professor, MIT
+Robert Jacobs, Professor, University of Rochester
+Stefanie Jegelka, Assistant Professor, MIT
+Gad Kimmel, Researcher, Financial Algorithms Israel
+Ariel Kleiner, Founder, Idiomatic
+Simon Lacoste-Julien, Assistant Professor, Université de Montréal
+Gert Lanckriet, Associate Professor, University of California, San Diego
+Jason Lee, Assistant Professor, University of Southern California
+Percy Liang, Assistant Professor, Stanford University
+Eric Loeb, Lead Data Scientist, Booz Allen Hamilton
+Justin Ma, Software Engineer, Google
+Lester Mackey, Researcher, Microsoft Research
+Marios Mantakas, Associate Professor, Technological Institute of Epirus
+Jon McAuliffe, Adjunct Professor, University of California, Berkeley
+Marina Meila, Associate Professor, University of Washington
+Kurt Miller, Quantitative Researcher, Process Driven Trading
+Teodor Moldovan, Researcher, Voleon Capital Management
+Sarah Moussa, Senior Software Engineer, Google
+XuanLong Nguyen, Associate Professor, University of Michigan
+Andrew Ng, Adjunct Professor, Stanford University
+Guillaume Obozinski, Research Faculty, Ecole des Ponts-ParisTech
+John Paisley, Assistant Professor, Columbia University
+Xinghao Pan, Senior Research Scientist, DSO National Laboraties, Singapore
+Michal Rosen-Zvi, Director, IBM Research
+Philip Sabes, Professor, University of California, San Francisco
+Sriram Sankararaman, Assistant Professor, UCLA
+Purnamrita Sarkar, Assistant Professor, University of Texas
+Lawrence Saul, Professor, University of California, San Diego
+Matthias Seeger, Senior Machine Learning Scientist, Amazon
+Fei Sha, Associate Professor, University of Southern California
+Alex Shyr, Chief Scientist, Bidgely
+Alex Simma, Financial Researcher, Tower Research Capital
+Satinder Singh, Professor, University of Michigan
+Virginia Smith, Assistant Professor, CMU
+Erik Sudderth, Associate Professor, University of California, Irvine
+Charles Sutton, Reader, University of Edinburgh
+Ameet Talwalkar, Assistant Professor, CMU
+Ben Taskar, Associate Professor, University of Washington
+Sekhar Tatikonda, Associate Professor, Yale University
+Yee-Whye Teh, Professor, University of Oxford
+Romain Thibaux, Software Engineer, Google
+Jennifer Tom, Bioinformatics Scientist, Genentech
+Daniel Ting, Research Scientist, Facebook
+Emanuel Todorov, Associate Professor, University of Washington
+Brian Vogel, Software Engineer, Intel
+Martin Wainwright, Professor, University of California, Berkeley
+Fabian Wauthier, Postdoctoral Researcher, University of Oxford
+Yair Weiss, Professor, Hebrew University
+Fun Wey, CEO, Affineon Technologies
+Andre Wibisono, Postdoctoral Researcher, University of Wisconsin
+Daniel Wolpert, Professor, University of Cambridge
+Eric Xing, Professor, CMU
+Lei Xu, Professor, Chinese University of Hong Kong
+Yun Yang, Assistant Professor, Florida State University
+Junming Yin, Assistant Professor, University of Arizona
+Yuchen Zhang, Postdoctoral Researcher, Stanford University
+Zhihua Zhang, Professor, Peking University
+Alice Zheng, Senior Manager, Amazon
