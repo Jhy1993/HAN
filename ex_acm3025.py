@@ -60,9 +60,7 @@ def load_data_dblp(path='/home/jhy/allGAT/acm_hetesim/ACM3025.mat'):
     truelabels, truefeatures = data['label'], data['feature'].astype(float)
     N = truefeatures.shape[0]
     rownetworks = [data['PAP'] - np.eye(N), data['PLP'] - np.eye(N)]  # , data['PTP'] - np.eye(N)]
-    # truefeatures = sp.csr_matrix(truefeatures)
-    # network = rownetworks[mp]
-    # network[network > 0] = 1
+
     y = truelabels
     train_idx = data['train_idx']
     val_idx = data['val_idx']
@@ -231,13 +229,3 @@ with tf.Graph().as_default():
             val_acc_avg = 0
          
         sess.close()
-
-        print('start knn, kmean.....')
-        xx = np.expand_dims(jhy_final_embedding, axis=0)[test_mask]
-        yy = y_test[test_mask]
-        from jhyexps import my_KNN, my_Kmeans, my_TSNE, my_Linear
-
-        my_KNN(xx, yy)
-        my_Kmeans(xx, yy)
-        my_TSNE(xx, yy, title='HANE')
-        my_Linear(xx, yy)
