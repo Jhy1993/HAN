@@ -16,9 +16,11 @@ python ex_acm3025.py
 
 If you make advantage of the HAN model in your research, please cite the following in your manuscript:
 
->@article{han2019,
->	title={Heterogeneous Graph Attention Network},
->	author={Xiao, Wang and Houye, Ji and Chuan, Shi and  Bai, Wang and Peng, Cui and P. , Yu and Yanfang, Ye},
->	journal={WWW},
->	year={2019}
->}
+```
+@article{han2019,
+title={Heterogeneous Graph Attention Network},
+author={Xiao, Wang and Houye, Ji and Chuan, Shi and  Bai, Wang and Peng, Cui and P. , Yu and Yanfang, Ye},
+journal={WWW},
+year={2019}
+}
+```
