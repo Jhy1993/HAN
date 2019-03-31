@@ -59,7 +59,7 @@ def load_data_dblp(path='/home/jhy/allGAT/acm_hetesim/ACM3025.mat'):
     data = sio.loadmat(path)
     truelabels, truefeatures = data['label'], data['feature'].astype(float)
     N = truefeatures.shape[0]
-    rownetworks = [data['PAP'] - np.eye(N), data['PLP'] - np.eye(N)] 
+    rownetworks = [data['PAP'] - np.eye(N), data['PLP'] - np.eye(N)]  # , data['PTP'] - np.eye(N)]
 
     y = truelabels
     train_idx = data['train_idx']
@@ -89,7 +89,6 @@ def load_data_dblp(path='/home/jhy/allGAT/acm_hetesim/ACM3025.mat'):
 
 
 adj_list, features, y_train, y_val, y_test, train_mask, val_mask, test_mask = load_data_dblp()
-
 
 
 nb_nodes = features.shape[0]
