@@ -229,3 +229,38 @@ with tf.Graph().as_default():
             val_acc_avg = 0
          
         sess.close()
+        
+        ts_size = features.shape[0]
+        ts_step = 0
+        ts_loss = 0.0
+        ts_acc = 0.0
+
+        while ts_step * batch_size < ts_size:
+            loss_value_ts, acc_ts, batch_final_embedding = sess.run([loss, accuracy, final_embedding],
+                                                                    feed_dict={
+                                                                        ftr_in: features[
+                                                                                ts_step * batch_size:(
+                                                                                                             ts_step + 1) * batch_size],
+                                                                        bias_in: biases[
+                                                                                 ts_step * batch_size:(
+                                                                                                              ts_step + 1) * batch_size],
+                                                                        lbl_in: y_test[
+                                                                                ts_step * batch_size:(
+                                                                                                             ts_step + 1) * batch_size],
+                                                                        msk_in: test_mask[
+                                                                                ts_step * batch_size:(
+                                                                                                             ts_step + 1) * batch_size],
+                                                                        is_train: False,
+                                                                        attn_drop: 0.0, ffd_drop: 0.0})
+            ts_loss += loss_value_ts
+            ts_acc += acc_ts
+            ts_step += 1
+
+        print('Test loss:', ts_loss / ts_step,
+              '; Test accuracy:', ts_acc / ts_step)
+        print('start knn, kmean...')
+
+        xx = batch_final_embedding[test_mask]
+        yy = y_test[test_mask]
+        print("embedding: {}, label: {}".format(xx.shape, yy.shape))
+
