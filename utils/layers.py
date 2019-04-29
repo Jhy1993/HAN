@@ -17,7 +17,7 @@ def attn_head(seq, out_sz, bias_mat, activation, in_drop=0.0, coef_drop=0.0, res
     with tf.name_scope('my_attn'):
         if in_drop != 0.0:
             seq = tf.nn.dropout(seq, 1.0 - in_drop)
-          seq_fts = tf.layers.conv1d(seq, out_sz, 1, use_bias=False)
+        seq_fts = tf.layers.conv1d(seq, out_sz, 1, use_bias=False)
 
         
         f_1 = tf.layers.conv1d(seq_fts, 1, 1)

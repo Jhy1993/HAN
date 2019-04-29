@@ -2,7 +2,7 @@ import time
 import numpy as np
 import tensorflow as tf
 
-from models import GAT, HeteGAT, HeteGAT_multi, HeteGAT_multi_const_1, HeteGAT_multi_const_2
+from models import GAT, HeteGAT, HeteGAT_multi
 from utils import process
 
 # 禁用gpu

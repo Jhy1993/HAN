@@ -1,1 +1,1 @@
-from .gat import GAT, HeteGAT
+from .gat import GAT, HeteGAT, HeteGAT_multi
