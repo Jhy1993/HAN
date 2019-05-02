@@ -285,7 +285,7 @@ with tf.Graph().as_default():
         yy = y_test[test_mask]
 
         print('xx: {}, yy: {}'.format(xx.shape, yy.shape))
-        from jhyexps import my_KNN, my_Kmeans, my_TSNE, my_Linear
+        from jhyexps import my_KNN, my_Kmeans#, my_TSNE, my_Linear
 
         my_KNN(xx, yy)
         my_Kmeans(xx, yy)
