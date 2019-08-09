@@ -1,3 +1,5 @@
+# Paper
+https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph
 # HAN
 
 The source code of Heterogeneous Graph Attention Network (WWW-2019).
