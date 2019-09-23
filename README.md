@@ -5,7 +5,9 @@ https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph
 The source code of Heterogeneous Graph Attention Network (WWW-2019).
 
 The source code is based on [GAT](https://github.com/PetarV-/GAT) 
+
 How to preprocess DBLP? (preprocess_dblp.py)
+
 Preprocessed ACM can be found in:
 https://pan.baidu.com/s/1V2iOikRqHPtVvaANdkzROw 
 提取码：50k2 
