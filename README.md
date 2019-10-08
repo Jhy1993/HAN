@@ -19,6 +19,9 @@ https://pan.baidu.com/s/1Qr2e97MofXsBhUvQqgJqDg
 
 python ex_acm3025.py
 
+# HAN in DGL
+https://github.com/dmlc/dgl/tree/master/examples/pytorch/han
+
 # Reference
 
 If you make advantage of the HAN model in your research, please cite the following in your manuscript:
