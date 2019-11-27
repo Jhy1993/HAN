@@ -18,7 +18,8 @@ Demo: preprocess_dblp.py
 embeddings for previous unseen nodes or even unseen graph" means the propose HAN can do inductive experiments. However, we cannot find such heterogeneous graph dataset. See experiments setting in Graphsage and GAT for details, especially on PPI dataset.
 4. meta-path can be symmetric or asymmetric. HAN can deal with different types of nodes via project them into the same space.
 5. Can we change the split of dataset and re-conduct some experiments? of course, you can split the dataset by yourself, as long as you use the same split for all models.
-5. How to run baseline (e.g., GCN) and report the best performance of baselines? Taking ACM as an example, we translate heterogenesous graph into two homogeneous graphs via meta-path PAP&PSP. For PAP based homogeneous graph, it only has one type of node paper and two paper connected via PAP. Then, we run GCN on two graphs and report the best performance. Ref https://arxiv.org/pdf/1902.01475v1.pdf and http://web.cs.wpi.edu/~xkong/publications/papers/www18.pdf
+6. How to run baseline (e.g., GCN) and report the best performance of baselines? Taking ACM as an example, we translate heterogenesous graph into two homogeneous graphs via meta-path PAP&PSP. For PAP based homogeneous graph, it only has one type of node paper and two paper connected via PAP. Then, we run GCN on two graphs and report the best performance. Ref https://arxiv.org/pdf/1902.01475v1.pdf and http://web.cs.wpi.edu/~xkong/publications/papers/www18.pdf
+7. Several principles for preprocess data 1）Extract nodes which have all meta-path based neighbors 1）Extract features which may meaningful in identifying the characteristics of nodes. For example， if all nodes have one feature， this feature is not meaningful. If only several nodes have one feature， this feature is not meaningful.
 
 # Datasets
 
