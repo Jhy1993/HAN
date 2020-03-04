@@ -10,6 +10,10 @@ The source code is based on [GAT](https://github.com/PetarV-/GAT)
 
 Demo: preprocess_dblp.py
 
+# Slides
+
+https://github.com/Jhy1993/HAN/blob/master/0516纪厚业%20www%20ppt%20copy.pdf
+
 # Q&A
 
 1. ACM_3025 in our experiments is based on the preprocessed version ACM in other paper (\data\ACM\ACM.mat). Subject is just like Neural Network, Multi-Object Optimization and Face Recognition. In ACM3025, PLP is actually PSP. You can find it in our code.
