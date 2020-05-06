@@ -39,6 +39,10 @@ https://pan.baidu.com/s/1Qr2e97MofXsBhUvQqgJqDg
 
 https://bupteducn-my.sharepoint.com/:u:/g/personal/jhy1993_bupt_edu_cn/Ef6A6m2njZ5CqkTN8QcwU8QBuENpB7eDVJRnsV9cWXWmsA?e=wlErKk
 
+Preprocessed IMDB can be found in:
+链接:https://pan.baidu.com/s/199LoAr5WmL3wgx66j-qwaw  密码:qkec
+
+
 # Run
 Download preprocessed data and modify data path in def load_data_dblp(path='/home/jhy/allGAT/acm_hetesim/ACM3025.mat'):
 
